@@ -1,5 +1,15 @@
-### Hi there 👋
+### - 👋 Oi Sou Taciana Cavalcanti
+- 👀 Apaixonada por Tecnologia, livros, mangas, series e musica.
+- 🌱 Atualmente estou me aperfeiçoando em HTML, CSS e JavaScript.
+- 😄 Ela/Dela
+- 💞️  Bom, ainda não sei em que posso ajudar, mas se quiser minha ajuda para algo é só me falar!!
+<!--
+- 📫 How to reach me ...
 
+<!---
+TacianaSales/TacianaSales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 <!--
 **TacianaCavalcanti/TacianaCavalcanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +21,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+ Pronouns: ...
 - ⚡ Fun fact: ...
 -->
